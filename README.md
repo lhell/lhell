@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 
-- 📫 How to reach me: hellwege@imt.uni-luebeck.de
+- 📫 How to reach me: l.hellwege@uni-luebeck.de
 
