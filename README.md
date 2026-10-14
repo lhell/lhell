@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @lhell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 
-- 📫 How to reach me: l.hellwege@uni-luebeck.de
+
+- 📫 How to reach me: laura.hellwege@imte.fraunhofer.de
 
